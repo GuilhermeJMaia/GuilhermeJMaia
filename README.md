@@ -4,6 +4,9 @@
 
 ![business-cat-working](https://user-images.githubusercontent.com/87741428/157910165-39961d52-2385-401f-b66a-be0beea8096b.gif)
 
+<p>
+  
+</p>
 
 💻 Tecnologias e Ferramentas
 <p>
@@ -26,6 +29,9 @@
 - 🎮 Sou apaixonado  por jogos.
 
 - 📫 Você pode falar comigo pelo Instagram ou pelo Twitter(demoro a responder  as vezes  mas sou legal  😄) em breve meus projetos vão  está disponíveis aqui nos repositórios. 😉
+<p>
+
+</p>
 
 <div>
   
