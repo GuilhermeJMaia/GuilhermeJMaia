@@ -2,6 +2,8 @@
 
 ### Tenho 28 anos, moro em Betim/MG, sou iniciante no universo da programação.
 
+![business-cat-working](https://user-images.githubusercontent.com/87741428/157910165-39961d52-2385-401f-b66a-be0beea8096b.gif)
+
 
 💻 Tecnologias e Ferramentas
 <p>
