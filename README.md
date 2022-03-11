@@ -28,7 +28,7 @@
 
 - 🎮 Sou apaixonado  por jogos.
 
-- 📫 Você pode falar comigo pelo Instagram ou pelo Twitter(demoro a responder  as vezes  mas sou legal  😄) em breve meus projetos vão  está disponíveis aqui nos repositórios. 😉
+- 📫 Você pode falar comigo pelo Instagram ou pelo Twitter(demoro a responder  as vezes  mas sou legal  😄) em breve meus projetos vão estar disponíveis aqui nos repositórios. 😉
 <p>
 
 </p>
