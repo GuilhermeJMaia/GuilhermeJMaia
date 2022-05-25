@@ -1,42 +1,26 @@
-## Olá Devs!!👍
+### Olá! eu sou o Guilherme Maia 😉
 
-### Tenho 28 anos, moro em Betim/MG, sou iniciante no universo da programação.
-
-![business-cat-working](https://user-images.githubusercontent.com/87741428/157910165-39961d52-2385-401f-b66a-be0beea8096b.gif)
-
-<p>
+- 📫 Você pode falar comigo pelo Instagram ou pelo Twitter(demoro a responder as vezes mas sou legal) em breve meus projetos vão estar disponíveis aqui nos repositórios. 😉
   
-</p>
+[![Twiiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Guilhermejmaia1)
+[![LinkDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-maia-200b0a1a4/)
+[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guilhermejmaia7/)
 
-💻 Tecnologias e Ferramentas
-<p>
-  
-</p>
 
-<div>
-  <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-  
-</div>
-<p> </p>
+![Guilherme Maia GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeJMaia&show_icons=true&theme=cobalt)
 
-- 📚 Atualmente estou estudando Python, em breve vou está iniciando meus estudos para desenvolvimento Análise de Dados.
 
-- 🎮 Sou apaixonado  por jogos.
+## Tecnologias que estou aprendendo.
 
-- 📫 Você pode falar comigo pelo Instagram ou pelo Twitter(demoro a responder  as vezes  mas sou legal  😄) em breve meus projetos vão estar disponíveis aqui nos repositórios. 😉
-<p>
+<div sytle="display: inline_block"><br/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img align="center" alt="Microsoft SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img align="center" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+</div></br>
 
-</p>
-
-<div>
-  
-  <a href="https://www.linkedin.com/in/guilherme-maia-200b0a1a4/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/guilhermejmaia7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://twitter.com/Guilhermejmaia1" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  
-</div>
+- Apaixonado por tecnologia, educação e por mudar a vida das através da programação.</br>
+- 🎮 Sou apaixonado por jogos. </br>
