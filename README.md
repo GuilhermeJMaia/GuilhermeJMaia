@@ -1,5 +1,4 @@
-### Olá! eu sou o Guilherme Maia ![image](https://user-images.githubusercontent.com/87741428/170292000-05e42f3e-13fb-4a50-a745-3c0c0af6b6b0.png)
-
+### Olá! eu sou o Guilherme Maia. 😄
 
 - 📫 Você pode falar comigo pelo Instagram ou pelo Twitter(demoro a responder as vezes mas sou legal) em breve meus projetos vão estar disponíveis aqui nos repositórios. 😉
   
