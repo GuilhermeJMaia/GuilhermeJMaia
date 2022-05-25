@@ -14,7 +14,7 @@
 </p>
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+  <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
@@ -24,7 +24,7 @@
 </div>
 <p> </p>
 
-- 📚 Atualmente estou estudando Java, em breve vou está iniciando meus estudos para desenvolvimento Android.
+- 📚 Atualmente estou estudando Python, em breve vou está iniciando meus estudos para desenvolvimento Análise de Dados.
 
 - 🎮 Sou apaixonado  por jogos.
 
